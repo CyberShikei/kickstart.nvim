@@ -23,7 +23,7 @@ return {
       --   janet = { "janet" },
       --   json = { "jsonlint" },
       --   markdown = { "vale" },
-      --   rst = { "vale" },
+      rst = { "vale" },
       --   ruby = { "ruby" },
       --   terraform = { "tflint" },
       --   text = { "vale" }
